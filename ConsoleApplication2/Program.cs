@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
 
             Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
